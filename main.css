@@ -1,0 +1,59 @@
+/*main.css*/
+
+html, body, h1, h2, h3, h4, p, div, ul, ol {
+  padding: 0;
+  border: 0;
+  margin:0;
+  font: inherit;
+  font-size: 100%;
+  font-family: Lucida; fantasy; serif;
+
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+  font-family: Lucida; fantasy; serif;
+}
+h2 {
+  font-size: 30px;
+  font-weight: 100;
+  text-align: center;
+  font-family: fantasy; serif;
+  color: #ffffff;
+
+}
+h3 {
+  font-size: 30px;
+  font-weight: normal;
+  text-align: center;
+  font-family: helvetica;
+  margin-bottom: 3px solid #ffffff;
+  margin: 20px 0 20px;
+}
+body {
+  background-color: #e5d0e2;
+}
+.header {
+  background-color: #912783;
+  }
+.tagline {
+    background-color: #000000;
+    padding: 15px 0 15px 0;
+  }
+.h2 strong {
+  font-weight: 400;
+    }
+.career {
+    width: 300px;
+    margin: 0 auto;
+      }
+.career ul {
+  list-style-type: none;
+}
+.career li {
+  margin-bottom: 10px;
+}
+.career img {
+  padding: 15px 0 15px 0;
+}
